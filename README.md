@@ -2,7 +2,7 @@
 
 This is a re-type and correction of the current print edition of "From Here to Forever" (The Great Controversy Between Christ and Satan) in the Myanmar (Burmese) language. Unfortunately the current edition is typeset in ancient software and fonts, so this project aims to produce a clean unicode copy, and add in the numerous missing paragraphs that were censored in previous print editions due to government regulations. We welcome all assistance with the translation of the missing paragraphs, and credit will be given if desired in the new printed edition which will be the culmination of this project.
 
-Project Contributors:
+Project Contributors:  
 May Wut Hmone - Re-type in Unicode, and Typo, Bible verse references and spelling corrections.  
 Tony Quick - Text extraction and processing, project management, layout and formatting  
 
